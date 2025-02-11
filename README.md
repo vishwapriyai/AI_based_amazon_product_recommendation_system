@@ -24,7 +24,7 @@ To run this project, you need to have Python installed on your machine. You can 
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-surprise streamlit
-
+```
 ## Usage
 
 ### Data Preparation
