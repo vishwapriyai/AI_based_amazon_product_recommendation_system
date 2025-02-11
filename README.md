@@ -1,5 +1,7 @@
 # Amazon Product Recommendation System
 
+![Screenshot of the Application](Screenshot%202024-12-31%20100542.png)
+
 ## Overview
 This project implements a recommendation system for Amazon products using collaborative filtering techniques. The system utilizes user ratings to suggest products that a user may be interested in based on their past interactions and the preferences of similar users.
 
