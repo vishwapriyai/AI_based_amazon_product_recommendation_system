@@ -43,6 +43,7 @@ pip install pandas numpy matplotlib seaborn scikit-surprise streamlit
 2. Run the following command in your terminal:
    ```bash
    streamlit run app.py
+
 ### Running the Streamlit App
 This will start a local web server and open the application in your default web browser.
 
